@@ -1,0 +1,26 @@
+{
+    "mirror_url": "http://ftp.uk.debian.org/debian/dists/stable/main/",
+    "SARCH": [
+        "all",
+        "amd64",
+        "arm64",
+        "armel",
+        "armhf",
+        "i386",
+        "mips64el",
+        "mipsel",
+        "ppc64el",
+        "s390x",
+        "source",
+        "udeb-all",
+        "udeb-amd64",
+        "udeb-arm64",
+        "udeb-armel",
+        "udeb-armhf",
+        "udeb-i386",
+        "udeb-mips64el",
+        "udeb-mipsel",
+        "udeb-ppc64el",
+        "udeb-s390x"
+    ]
+}

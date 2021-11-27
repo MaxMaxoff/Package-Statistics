@@ -1,0 +1,7 @@
+GracefulKiller==0.1
+SocketMutex==0.1
+hiredis==2.0.0
+pymongo==3.11.4
+python-dateutil==2.8.1
+redis==3.5.3
+six==1.16.0
