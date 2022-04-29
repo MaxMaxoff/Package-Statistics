@@ -15,7 +15,7 @@
 
 ### Preparing algoritm ###
 
-* Algorinm was developed in a short period of time, approx in 2 minutes, main points:
+* Algoritm was developed in a short period of time, approx in 2 minutes, main points:
   * Download file
   * Open gzip file and read string one by one
   * Make frequency array with package names as keys, fill frequency array
